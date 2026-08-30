@@ -24,12 +24,36 @@ The core idea is that an AI-generated proposal is not operational truth. A meani
 
 ## Current status
 
-This repository is the public project overview. The implementation is currently a private alpha while data boundaries, connector contracts, and release licensing are stabilized.
+This repository is the public project overview. The implementation remains a
+private alpha while data boundaries, connector contracts, and release licensing
+are stabilized.
+
+As of 29 August 2026, private Work Compiler v0.6 has a 47-test deterministic
+suite, a clean source-package/wheel gate, and private exact-head CI. That is a
+status report, not publicly reproducible proof: the implementation and its CI
+logs are not exposed by this repository.
 
 - no hosted demo is currently claimed;
 - no private source, connector data, customer records, or runtime ledgers are published here;
 - no autonomous external communication, money movement, or business-system mutation is offered by this repository;
 - no open-source license has been selected, so public visibility does not grant reuse rights.
+
+## Revenue Rescue v1
+
+The first bounded service surface is a **USD 350 fixed-scope repair engagement
+for one customer-authorized site and up to three listed, twice-verified
+revenue-path defects**.
+
+Work Compiler prepares an internal evidence packet first. The packet remains
+`HOLD`, with `external_action = NONE` and
+`commercial_status = OFFER_PREPARED_NOT_SOLD`, until customer authority,
+written scope approval, cleared payment, least-privilege access, and rollback
+readiness are independently recorded.
+
+The complete public offer, acceptance boundary, exclusions, and contact path
+are in [`REVENUE_RESCUE.md`](REVENUE_RESCUE.md). Publishing an offer does not
+mean outreach occurred, a buyer accepted, work was delivered, or revenue was
+received.
 
 ## Safety contract
 
